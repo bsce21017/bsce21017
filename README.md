@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me at ITU 
+- 📫 reach me at Embedded Lab @ ITU 
 - 🌱 I’m doing BS Computer Engineering from Information Technology University (ITU)
 
 <!---
