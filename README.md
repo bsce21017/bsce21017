@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @bsce21017
-- 👋 My name is Muhammad Abubakar Saif
+- 👋Hi, My name is Muhammad Abubakar Saif
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me at Embedded Lab @ ITU 
-- 🌱 I’m doing BS Computer Engineering from Information Technology University (ITU)
+- 📫 reach me at BrainGenz 
+- 🌱 I have done BS Computer Engineering from Information Technology University (ITU)
 
 <!---
 bsce21017/bsce21017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
